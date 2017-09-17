@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chrome-launcher": "^0.7.0",
+    "chrome-remote-interface": "^0.24.5"
+  }
+}
